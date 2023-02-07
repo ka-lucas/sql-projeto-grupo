@@ -1,11 +1,11 @@
 # Consultas SQL
 Projeto desenvolvido por:
 
-Jozilene Serafin
-Katarine Melo
-Lais Leão
-Lidiane Celina
-Nilton de Maria
+Jozilene Serafin,
+Katarine Melo,
+Lais Leão,
+Lidiane Celina,
+Nilton de Maria.
 
 
 ## Pergunta 1: Quantas variações de cores existem na base LEGO e quantas são utilizadas?
